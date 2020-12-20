@@ -1,3 +1,4 @@
 ## SystemesDIstribues4Asir
 
-Expliquer un push .... envoie vers le remote (serveur distant)
+1. Expliquer un push .... 
+2. Envoie vers le remote (serveur distant)
