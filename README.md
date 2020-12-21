@@ -1,6 +1,7 @@
 Le cours de systèmes distribués est composé de quatre parties suivantes. Une première partie préliminaire, consacrée à une brève introduction au système de gestion de versions GIT. Dans la deuxième partie, je présenterai JAVA EE, et particulièrelent les deux design patterns MVC et DAO. La troisième partie est consacrée la présentation des services web étendus (*SOAP, Simple Object Access Protocole*). Enfin, dans la dernière partie, je présenterai les service web *RESTful*.
 
-### Partie I. Systèmes distribués, *GIT*
+### Partie I. Systèmes distribués, *GIT* 
+Bienvenue dans cette partie d'introduction à Java EE. Ce qui suit accompagne les manipulations mises à votre disposition sous forme de vidéos.
 
 ### Partie II. Systèmes distribués, *Java EE* 
 
@@ -8,6 +9,6 @@ Le cours de systèmes distribués est composé de quatre parties suivantes. Une 
 
 ### Partie III. Systèmes distribués, *Services Web RESTful*
 
-Bienvenue dans ce cours d'introduction à Java EE, dispensé à Polytech Nancy. Ce qui suit accompagne les manipulations mises à votre disposition sous forme de vidéos.  
+  
 
 
