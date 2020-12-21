@@ -6,7 +6,7 @@ Le cours de systèmes distribués est composé de quatre parties, suivantes. Une
 
 ### Partie III. Systèmes distribués, *Services web SOAP*
 
-### Partie II. Systèmes distribués, *Services Web RESTful*
+### Partie III. Systèmes distribués, *Services Web RESTful*
 
 Bienvenue dans ce cours d'introduction à Java EE, dispensé à Polytech Nancy. Ce qui suit accompagne les manipulations mises à votre disposition sous forme de vidéos.  
 
