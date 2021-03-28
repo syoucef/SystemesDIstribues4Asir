@@ -10,6 +10,9 @@ Bienvenue dans cette partie d'introduction à Java EE. Ce qui suit accompagne le
 
 ### Partie III. Systèmes distribués, *Services Web RESTful*
 
+
+![replicaset](https://user-images.githubusercontent.com/13033894/112759161-10b3ab80-8ff2-11eb-8fec-63ac9341d2f3.png)
+
   
 
 
