@@ -15,7 +15,7 @@ Bienvenue dans cette partie d'introduction à Java EE. Ce qui suit accompagne le
 
 L'architecture de ReplicaSet de MongoDB est donnée par la figure suivante. 
 
-![](eplicaset.png)
+![](replicaset.png)
 
   
 
